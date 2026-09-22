@@ -12,7 +12,7 @@ If you want to learn more about me, check out my pinned website. It has my resum
 
 I am looking forward top connecting with you!
 
-Fun Facts
+Fun Facts:
 
 - I despise mashed potatoes
 
