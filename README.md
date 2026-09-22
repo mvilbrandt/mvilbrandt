@@ -2,7 +2,7 @@
 
 I'm Mason, a data entry operator based in Madison, Wisconsin.
 
-I went to school at UW-Madison with degrees in Data Science and Digital Media Analytics.
+I went to school at UW-Madison for degrees in Data Science and Digital Media Analytics.
 
 Most of my experience includes building optimization models, data visualizations, and working with large data sets.
 
@@ -14,10 +14,10 @@ I am looking forward top connecting with you!
 
 Fun Facts
 
-I despise mashed potatoes
+- I despise mashed potatoes
 
-I am the oldest of 4
+- I am the oldest of 4
 
-My favorite movie is Interstellar
+- My favorite movie is Interstellar
 
-Hobbies: gym, friends, data visualizations, soccer
+- Hobbies: gym, friends, data visualizations, soccer
